@@ -23,7 +23,7 @@ A full-stack task management application with user authentication and a Kanban-s
 
 ## Author
 
-Krish Kumar 
+Nischay Thakur 
 BTech/60064/22
 
 ## Submission

@@ -7,7 +7,7 @@
     "dev": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Nischay Thakur",
   "license": "ISC",
   "description": "",
   "dependencies": {
