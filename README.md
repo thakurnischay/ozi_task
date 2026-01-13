@@ -26,8 +26,3 @@ A full-stack task management application with user authentication and a Kanban-s
 Nischay Thakur 
 BTech/60008/22
 
-## Submission
-
-Repository format: `BTECH/60008/22`
-
--
